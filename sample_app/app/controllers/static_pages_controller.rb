@@ -5,6 +5,9 @@ class StaticPagesController < ApplicationController
   def helm
   end
   
+  def help
+  end
+  
   def about
   end
   
